@@ -424,3 +424,75 @@ Never stop learning.
 </div>
 
 ---
+
+
+
+
+
+
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=OPEN+SOURCE+JOURNEY;MY+DEVELOPER+ROADMAP" />
+</h2>
+
+<div align="center">
+
+```text
+                 🚀 Developer Journey
+
+  🎓 Computer Science
+          │
+          ▼
+  💻 Software Engineering
+          │
+          ▼
+  🤖 Artificial Intelligence
+          │
+          ▼
+  👁️ Computer Vision
+          │
+          ▼
+  🌐 Full Stack Development
+          │
+          ▼
+  ☁️ Cloud & DevOps
+          │
+          ▼
+  🌍 Open Source Contributor
+          │
+          ▼
+  🏆 Enterprise AI Engineer
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📅 Career Timeline
+
+| Year | Achievement |
+|:----:|:------------|
+| 2025 | Started Professional Software Development |
+| 2026 | Built Facial Emotion Recognition System |
+| 2026 | Developed Enterprise POS System |
+| 2026 | Created Modern Portfolio & GitHub Brand |
+| Next | Open Source Contributions |
+| Future | AI Products & Enterprise Solutions |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Mission Statement
+
+> **Building intelligent software that creates real-world impact through Artificial Intelligence, scalable backend systems, and modern web technologies.**
+
+</div>
+
+---
+
+
