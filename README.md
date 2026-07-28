@@ -369,3 +369,58 @@ Never stop learning.
 </div>
 
 ---
+
+
+
+<h2 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=LEARNING+ROADMAP;CURRENT+JOURNEY" />
+</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+## 🎓 Currently Learning
+
+- ☁️ Cloud Computing
+- 🐳 Docker
+- ☸ Kubernetes
+- ⚙ DevOps
+- 🧠 Advanced Deep Learning
+- 🚀 Enterprise Software Architecture
+
+</td>
+
+<td width="50%">
+
+## 🎯 2026 Goals
+
+✅ AI Engineer
+
+✅ Cloud Engineer
+
+✅ Open Source Contributor
+
+✅ Build SaaS Products
+
+✅ Publish AI Research
+
+✅ Enterprise Software Developer
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+### 📚 Current Focus
+
+🧠 Artificial Intelligence • ☁️ Cloud • ⚙ DevOps • 🤖 Machine Learning • 🌐 Full Stack
+
+</div>
+
+---
