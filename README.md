@@ -325,6 +325,7 @@ Never stop learning.
 <!-- Trophy -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=onedark&no-frame=true&no-bg=true&row=2&column=4"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qaysar25&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qaysar25&theme=tokyonight&utcOffset=3"/>
 </p>
 ---
