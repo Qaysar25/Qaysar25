@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
+</p>
+
+
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=ABOUT+ME" />
 </h2>
@@ -512,8 +517,6 @@ Never stop learning.
   <img src="https://raw.githubusercontent.com/Qaysar25/Qaysar25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner"/>
-</p>
+
 
 
