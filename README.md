@@ -291,13 +291,13 @@ Never stop learning.
 
 ---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="95%" src="https://streak-stats.demolab.com?user=Qaysar25&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -305,7 +305,7 @@ Never stop learning.
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaysar25&theme=github_dark"/>
 
 </div>
 
