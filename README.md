@@ -324,5 +324,5 @@ Never stop learning.
 
 <!-- Trophy -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=algolia&no-frame=true&margin-w=15"/>
 ---
