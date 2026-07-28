@@ -300,3 +300,40 @@ Never stop learning.
 </div>
 
 ---
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=GITHUB+ANALYTICS;CODING+ACTIVITY" />
+</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qaysar25&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
