@@ -1,69 +1,74 @@
 <h2 align="center">⚡ About Me</h2>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-FF6F00?style=for-the-badge"/>
+
+</div>
+
+<br>
+
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👨‍💻 Who Am I?
+## 👨‍💻 Profile
 
-```text
-💙 Name      : Caesar Mohamed
-💼 Role      : Software Engineer
-🌍 Location  : Somalia
-🎓 Degree    : Computer Science
-```
+✨ Passionate Software Engineer
 
-### 🚀 What I Do
+🤖 Artificial Intelligence Enthusiast
 
-```text
-🤖 AI & Machine Learning
-👁️ Computer Vision
-🌐 Full Stack Development
-⚙️ Backend Engineering
-☁️ Cloud Computing
-```
+👁️ Computer Vision Developer
 
-### 📌 Current Mission
+🌐 Full Stack Web Developer
 
-> Building intelligent software that combines
-> Artificial Intelligence, modern web technologies,
-> and scalable backend systems to solve
-> real-world problems.
+☁️ Cloud Computing Learner
+
+🚀 Building intelligent software for real-world impact
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 Current Projects
+## 🚀 Current Focus
 
-| 🚀 Project | Status |
-|------------|--------|
-| 🎭 Facial Emotion Recognition | 🟢 Active |
-| 🛒 POS Management System | 🟢 Building |
-| 🌍 Personal Portfolio | 🟡 Planning |
+🎭 Facial Emotion Recognition
 
----
+🛒 Enterprise POS System
 
-### 💡 Philosophy
+🌍 Modern Web Applications
 
-> **"Clean Code. Smart Solutions. Continuous Learning."**
+⚡ REST APIs
 
----
+🧠 Deep Learning
 
-### 🎯 2026 Goals
-
-✅ Master AI Engineering
-
-✅ Become Open Source Contributor
-
-✅ Build Enterprise Software
-
-✅ Learn Cloud & DevOps
+💙 Open Source
 
 </td>
 
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🎯 2026 Vision
+
+🧠 AI Engineering • ☁️ Cloud • 🚀 Enterprise Systems • 🌍 Open Source
+
+</div>
+
+---
+
+<div align="center">
+
+> ### 💡 *"Turning ideas into intelligent software."*
+
+</div>
 
 ---
