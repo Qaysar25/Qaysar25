@@ -98,3 +98,85 @@ Never stop learning.
 </div>
 
 ---
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=TECH+STACK;TOOLS+%26+TECHNOLOGIES" />
+</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineering-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6D00?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+## 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,php,javascript,typescript,c" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,anaconda" />
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Technology Focus
+
+| AI | Backend | Frontend | Database | DevOps |
+|:--:|:-------:|:--------:|:--------:|:-------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ |
+
+</div>
+
+---
