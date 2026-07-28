@@ -33,3 +33,34 @@
 | ☁️ Tools | Git, GitHub, Docker, Linux, VS Code, Figma |
 
 ---
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaysar25&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
