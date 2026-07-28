@@ -492,6 +492,17 @@ Never stop learning.
 > **Building intelligent software that creates real-world impact through Artificial Intelligence, scalable backend systems, and modern web technologies.**
 
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaysar25&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight"/>
+</p>
 
 ---
 
