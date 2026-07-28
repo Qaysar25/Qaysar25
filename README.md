@@ -180,3 +180,123 @@ Never stop learning.
 </div>
 
 ---
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=FEATURED+PROJECTS;MY+BEST+WORK" />
+</h2>
+
+<div align="center">
+
+> 🚀 Turning ideas into scalable software solutions.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎭 Facial Emotion Recognition
+
+### 🤖 AI Powered Emotion Detection System
+
+✔ Deep Learning (CNN)
+
+✔ Computer Vision
+
+✔ Flask REST API
+
+✔ Emotion Analytics Dashboard
+
+✔ SQLite Database
+
+✔ Image Processing
+
+**Tech Stack**
+
+`Python` `TensorFlow` `OpenCV` `Flask` `SQLite`
+
+</td>
+
+<td width="50%">
+
+## 🛒 POS Management System
+
+### 🏪 Enterprise Point of Sale
+
+✔ Sales Management
+
+✔ Inventory Tracking
+
+✔ Billing System
+
+✔ Customer Management
+
+✔ Reports & Analytics
+
+**Tech Stack**
+
+`PHP` `JavaScript` `Bootstrap` `MySQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+### 💼 Modern Portfolio Website
+
+✔ Responsive Design
+
+✔ Modern UI
+
+✔ Projects Showcase
+
+✔ Contact Section
+
+✔ Performance Optimized
+
+**Tech Stack**
+
+`React` `HTML` `CSS` `Bootstrap`
+
+</td>
+
+<td width="50%">
+
+## 🚀 Upcoming Projects
+
+### 🔥 Currently Building
+
+🧠 AI Assistant
+
+📊 Smart Analytics Dashboard
+
+☁ Cloud Native Applications
+
+⚡ Enterprise APIs
+
+🤖 AI Automation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 💡 What I Love Building
+
+🤖 Artificial Intelligence • 🌐 Full Stack Applications • ⚙ Backend Systems • 👁 Computer Vision • ☁ Cloud Solutions
+
+</div>
+
+---
