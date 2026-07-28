@@ -512,4 +512,8 @@ Never stop learning.
   <img src="https://raw.githubusercontent.com/Qaysar25/Qaysar25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
+</p>
+
 
