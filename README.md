@@ -1,59 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=CAESAR%20MOHAMED&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30,35&text=CAESAR%20MOHAMED&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1>👋 Hi, I'm Caesar Mohamed</h1>
+# 👋 Hi, I'm Caesar Mohamed
 
-<h3>💻 Software Engineer | 🤖 AI Engineer | 🌐 Full Stack Developer</h3>
+### 💻 Software Engineer • 🤖 AI Engineer • 🌐 Full Stack Developer
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=Building+Modern+Software...;Artificial+Intelligence+Engineer;Computer+Vision+Developer;Flask+%7C+React+%7C+TensorFlow;Always+Learning+New+Technologies🚀"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Building+Modern+Software;Artificial+Intelligence+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Always+Learning+Something+New+🚀"/>
 
-<p>
+<br>
 
-<a href="https://github.com/Qaysar25">
-<img src="https://img.shields.io/github/followers/Qaysar25?label=Followers&style=for-the-badge&logo=github&color=0A66C2"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Qaysar25&style=for-the-badge&color=blue"/>
-
+<img src="https://img.shields.io/github/followers/Qaysar25?label=Followers&style=for-the-badge&logo=github&color=0969DA"/>
+<img src="https://komarev.com/ghpvc/?username=Qaysar25&style=for-the-badge&color=0E75B6"/>
 <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Engineer-purple?style=for-the-badge"/>
-
-</p>
+<img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Available%20for-Collaboration-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```yaml
-Name: Caesar Mohamed
+<table>
+<tr>
+<td width="60%">
 
-Role: Software Engineer
+### 👨‍💻 Who Am I?
 
-Specialization:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Full Stack Development
+I'm a passionate **Software Engineer** focused on building modern, scalable, and intelligent software solutions.
 
-Currently Working On:
-  - Facial Emotion Recognition System
-  - AI Projects
-  - Modern Web Applications
+My primary interests include:
 
-Learning:
-  - Docker
-  - Kubernetes
-  - Cloud Computing
-  - DevOps
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- ☁️ Cloud Computing
 
-Goal:
-  Become a World-Class Software Engineer 🌍
-```
+---
+
+### 🚀 Currently Building
+
+- 🎯 Facial Emotion Recognition System
+- 🛒 POS Management System
+- 🌐 Modern Web Applications
+
+---
+
+### 🎯 2026 Mission
+
+Build impactful AI-powered applications, contribute to Open Source, and grow into a world-class Software Engineer.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
