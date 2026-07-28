@@ -329,3 +329,43 @@ Never stop learning.
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qaysar25&theme=tokyonight&utcOffset=3"/>
 </p>
 ---
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+SKILLS+DASHBOARD;EXPERIENCE+%26+SPECIALIZATION" />
+</h2>
+
+<div align="center">
+
+| 💡 Skill | Level |
+|:---------|:-----:|
+| 🐍 Python | ████████████████████ 95% |
+| 🤖 Artificial Intelligence | ███████████████████ 93% |
+| 🧠 Machine Learning | ██████████████████ 90% |
+| 👁️ Computer Vision | ████████████████████ 95% |
+| 🔥 Deep Learning | █████████████████ 88% |
+| ⚙️ Flask API Development | ███████████████████ 92% |
+| 🌐 React.js | ████████████████ 85% |
+| 💻 Full Stack Development | ███████████████████ 92% |
+| 🗄️ SQL Databases | █████████████████ 90% |
+| 🐳 Docker | ████████████ 70% |
+| ☁️ Cloud Computing | ███████████ 65% |
+| 🔀 Git & GitHub | ███████████████████ 93% |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Main Areas of Expertise
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Expert-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-Advanced-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-Advanced-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Advanced-FF6D00?style=for-the-badge"/>
+
+</div>
+
+---
