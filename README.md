@@ -298,14 +298,8 @@ Never stop learning.
 <!-- Stats + Languages -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- Streak -->
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- Contribution Graph -->
@@ -330,8 +324,5 @@ Never stop learning.
 
 <!-- Trophy -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
-</p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight&no-frame=true&no-bg=true"/>
 ---
