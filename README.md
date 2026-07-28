@@ -1,79 +1,72 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=⚡+ABOUT+ME+⚡" />
-</h2>
+<h2 align="center">⚡ About Me ⚡</h2>
 
-<table align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-FF6F00?style=for-the-badge"/>
+</p>
+
+<table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-### 💎 Who Am I
+## 👨‍💻 Who Am I
 
-<img src="https://img.shields.io/badge/💻-Software_Engineer-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖-AI_Engineer-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌐-Full_Stack-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/👁️-Computer_Vision-FF6F00?style=for-the-badge"/>
+🚀 Passionate Software Engineer
 
----
+🤖 AI & Machine Learning Enthusiast
 
-### 🚀 Currently Working On
+👁️ Computer Vision Developer
 
-🧠 Facial Emotion Recognition System
+🌐 Full Stack Developer
 
-⚡ Enterprise POS Management System
+⚙️ Backend Engineer
 
-🌍 Intelligent AI Applications
-
-☁️ Cloud & DevOps Journey
+☁️ Cloud Computing Learner
 
 ---
 
-### 💡 Mission
+## 🚀 Current Focus
 
-> Building modern software powered by Artificial Intelligence,
-> scalable backend architectures and clean engineering practices.
+🎭 Facial Emotion Recognition
+
+🛒 POS Management System
+
+🌍 Intelligent Web Applications
+
+📈 REST API Development
+
+🧠 Deep Learning
+
+💙 Open Source
 
 ---
 
-### 🎯 Vision
+## 🎯 Vision
 
-🌟 World-Class Software Engineer
-
-🌟 AI Research & Innovation
-
-🌟 Open Source Contributor
-
-🌟 Enterprise Software Architect
+Become a world-class Software Engineer by building modern AI solutions that solve real-world problems.
 
 </td>
 
-<td width="42%" align="center">
+<td width="45%" align="center">
 
-<img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RkMXV3dGRmMnI4cW81dGR6dGc1MnN4dWk0Y29tMHB5ZGQ4Z2V5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+<img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaysar25&theme=tokyonight"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Python-★★★★★★★★★★-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Love-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI-Expert_in_Progress-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open_Source-Lover-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Learning-Never_Stops-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### ⚡ Engineering Philosophy
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
 
 ---
