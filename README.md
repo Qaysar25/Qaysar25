@@ -1,66 +1,59 @@
 <div align="center">
 
-# Hi 👋 I'm Caesar Mohamed
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=CAESAR%20MOHAMED&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Software Engineer • AI Engineer • Full Stack Developer
+<h1>👋 Hi, I'm Caesar Mohamed</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Computer+Vision+Developer)](https://git.io/typing-svg)
+<h3>💻 Software Engineer | 🤖 AI Engineer | 🌐 Full Stack Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff"/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=Building+Modern+Software...;Artificial+Intelligence+Engineer;Computer+Vision+Developer;Flask+%7C+React+%7C+TensorFlow;Always+Learning+New+Technologies🚀"/>
+</p>
 
-</div>
----
+<p>
 
-# 💻 Tech Stack
+<a href="https://github.com/Qaysar25">
+<img src="https://img.shields.io/github/followers/Qaysar25?label=Followers&style=for-the-badge&logo=github&color=0A66C2"/>
+</a>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Qaysar25&style=for-the-badge&color=blue"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,php,javascript,typescript,react,nextjs,nodejs,html,css,bootstrap,flask,tensorflow,pytorch,opencv,mysql,postgresql,mongodb,sqlite,docker,git,github,linux,vscode,figma&perline=5" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/AI-Engineer-purple?style=for-the-badge"/>
 
----
-
-## 🚀 Core Skills
-
-| Category | Technologies |
-|-----------|--------------|
-| 💻 Programming | Python, Java, PHP, JavaScript, TypeScript |
-| 🌐 Frontend | HTML5, CSS3, Bootstrap, React.js, Next.js |
-| ⚙️ Backend | Flask, REST API, Node.js |
-| 🤖 AI / ML | TensorFlow, OpenCV, Computer Vision, CNN |
-| 🗄️ Databases | MySQL, PostgreSQL, MongoDB, SQLite |
-| ☁️ Tools | Git, GitHub, Docker, Linux, VS Code, Figma |
-
----
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 </div>
 
 ---
-# 🔥 GitHub Streak
 
-<div align="center">
+## 🚀 About Me
 
-<img src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight&hide_border=true"/>
+```yaml
+Name: Caesar Mohamed
 
-</div>
+Role: Software Engineer
 
----
-# 📈 Contribution Graph
+Specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Full Stack Development
 
-<div align="center">
+Currently Working On:
+  - Facial Emotion Recognition System
+  - AI Projects
+  - Modern Web Applications
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qaysar25&theme=tokyo-night&hide_border=true"/>
+Learning:
+  - Docker
+  - Kubernetes
+  - Cloud Computing
+  - DevOps
 
-</div>
+Goal:
+  Become a World-Class Software Engineer 🌍
+```
 
 ---
