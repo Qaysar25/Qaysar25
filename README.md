@@ -1,52 +1,65 @@
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=⚡+ABOUT+ME+⚡" />
+</h2>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack-FF6F00?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="58%" valign="top">
 
-## 👨‍💻 Profile
+### 💎 Who Am I
 
-✨ Passionate Software Engineer
+<img src="https://img.shields.io/badge/💻-Software_Engineer-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖-AI_Engineer-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐-Full_Stack-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👁️-Computer_Vision-FF6F00?style=for-the-badge"/>
 
-🤖 Artificial Intelligence Enthusiast
+---
 
-👁️ Computer Vision Developer
+### 🚀 Currently Working On
 
-🌐 Full Stack Web Developer
+🧠 Facial Emotion Recognition System
 
-☁️ Cloud Computing Learner
+⚡ Enterprise POS Management System
 
-🚀 Building intelligent software for real-world impact
+🌍 Intelligent AI Applications
+
+☁️ Cloud & DevOps Journey
+
+---
+
+### 💡 Mission
+
+> Building modern software powered by Artificial Intelligence,
+> scalable backend architectures and clean engineering practices.
+
+---
+
+### 🎯 Vision
+
+🌟 World-Class Software Engineer
+
+🌟 AI Research & Innovation
+
+🌟 Open Source Contributor
+
+🌟 Enterprise Software Architect
 
 </td>
 
-<td width="50%">
+<td width="42%" align="center">
 
-## 🚀 Current Focus
+<img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RkMXV3dGRmMnI4cW81dGR6dGc1MnN4dWk0Y29tMHB5ZGQ4Z2V5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
 
-🎭 Facial Emotion Recognition
+<br><br>
 
-🛒 Enterprise POS System
+<img src="https://img.shields.io/badge/Python-★★★★★★★★★★-3776AB?style=for-the-badge"/>
 
-🌍 Modern Web Applications
+<img src="https://img.shields.io/badge/AI-Expert_in_Progress-purple?style=for-the-badge"/>
 
-⚡ REST APIs
+<img src="https://img.shields.io/badge/Open_Source-Lover-success?style=for-the-badge"/>
 
-🧠 Deep Learning
-
-💙 Open Source
+<img src="https://img.shields.io/badge/Learning-Never_Stops-blue?style=for-the-badge"/>
 
 </td>
 
@@ -57,17 +70,9 @@
 
 <div align="center">
 
-## 🎯 2026 Vision
+### ⚡ Engineering Philosophy
 
-🧠 AI Engineering • ☁️ Cloud • 🚀 Enterprise Systems • 🌍 Open Source
-
-</div>
-
----
-
-<div align="center">
-
-> ### 💡 *"Turning ideas into intelligent software."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
