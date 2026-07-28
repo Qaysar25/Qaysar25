@@ -291,58 +291,47 @@ Never stop learning.
 
 ---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=GITHUB+ANALYTICS;CODING+DASHBOARD" />
+</h2>
 
-<div align="center">
+<!-- Stats + Languages -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qaysar25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaysar25&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=Qaysar25&theme=github-dark-blue&hide_border=true"/>
+<!-- Streak -->
 
-</div>
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=Qaysar25&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
+<!-- Contribution Graph -->
 
-<div align="center">
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qaysar25&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaysar25&theme=github_dark"/>
+<!-- Profile Summary -->
 
-</div>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaysar25&theme=tokyonight"/>
+</p>
 
-<br>
+<!-- Summary Cards -->
 
-<div align="center">
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaysar25&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qaysar25&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qaysar25&theme=tokyonight&utcOffset=3"/>
+</p>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qaysar25&theme=tokyo-night&hide_border=true"/>
+<!-- Trophy -->
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaysar25&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaysar25&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qaysar25&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qaysar25&theme=tokyonight&utcOffset=3"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Qaysar25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
+</p>
 
 ---
