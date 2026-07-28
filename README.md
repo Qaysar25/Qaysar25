@@ -18,7 +18,7 @@
 
 <td width="50%" valign="top">
 
-## 🚀 Profile
+##  Profile
 
 💻 Software Engineer passionate about building scalable software.
 
